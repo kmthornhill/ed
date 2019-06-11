@@ -12,6 +12,7 @@ As part of this workshop, participants will get familiar with using...
 * Github Pages
 * The Ed Jekyll theme
 * Markdown
+* Dillinger.io
 
 Have questions? Reach out to [UO Libraries Digital Scholarshp Services](mailto:digitalscholarship@uoregon.edu) or stop by the [DREAM (Digital Research, Education, and Media)](https://dreamlab.uoregon.edu) Lab in the University of Oregon Knight Library.
 
