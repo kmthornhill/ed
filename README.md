@@ -1,5 +1,5 @@
 # DIY Digital Scholarship Workshop: Getting Started with Digital Editions
-## University of Oregon Libraries
+University of Oregon Libraries Digital Scholarship Services Workshop focused on teaching scholars how to make lightweight digital editions using GitHub Pages, Markdown, and the Jekyll theme *Ed*. This demo and workshop was heavilty influenced by the DIY Digital Editions workshop taught at the 2019 Digital Humanities Summer Institute.
 
 # Simple Ed Install
 
