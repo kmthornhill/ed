@@ -3,7 +3,6 @@ layout: page
 title: About this site
 ---
 # Getting Started with Digital Editions, Markdown, and GitHub Pages
-## 
 This is UO Libraries DIY Digital Scholarship workshop was heavily inspired and influence by the Digital Humanities Summer Institute 2019 workshop DIY Digital Editions taught by [Professor Shawna Ross](https://english.tamu.edu/dr-shawna-ross/) and [Professor Margaret Konkol](https://www.odu.edu/directory/people/m/mkonkol).
 
 This website is meant to support sandbox to get scholars at the University of Oregon started with textual editing using Markdown and GitHub pages, and using an out of the box solution for makiing light weight digital editions. No command-line experiience is needed!
