@@ -1,9 +1,9 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
+title:               Getting Started with Digital Editions and Minimal Computing
 tagline:             'A Jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+description:         'A workshop for scholars who want to make a lightweight and free digital edition using GitHub, GitHub Pages, Markdown, Dillniger.io, and Ed -- a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'https://kmthornhill.github.io'
 baseurl:             '/ed'
 
