@@ -1,3 +1,6 @@
+# DIY Digital Scholarship Workshop: Getting Started with Digital Editions
+## University of Oregon Libraries
+
 # Simple Ed Install
 
 This is a fork of [elotroalex's](https://github.com/elotroalex) [Ed](https://github.com/elotroalex/ed) package that removes the confusion of having the source code stored in the `master` branch *and* the deployed site in the `gh-pages` branch. 
