@@ -1,7 +1,25 @@
 ---
 layout: page
-title: About
+title: About this site
 ---
+# Getting Started with Digital Editions, Markdown, and GitHub Pages
+## 
+This is UO Libraries DIY Digital Scholarship workshop was heavily inspired and influence by the Digital Humanities Summer Institute 2019 workshop DIY Digital Editions taught by [Professor Shawna Ross](https://english.tamu.edu/dr-shawna-ross/) and [Professor Margaret Konkol](https://www.odu.edu/directory/people/m/mkonkol).
+
+This website is meant to support sandbox to get scholars at the University of Oregon started with textual editing using Markdown and GitHub pages, and using an out of the box solution for makiing light weight digital editions. No command-line experiience is needed!
+
+As part of this workshop, participants will get familiar with using...
+* Using Github through a web browser
+* Github Pages
+* The Ed Jekyll theme
+* Markdown
+
+Have questions? Reach out to [UO Libraries Digital Scholarshp Services](mailto:digitalscholarship@uoregon.edu) or stop by the [DREAM (Digital Research, Education, and Media)](https://dreamlab.uoregon.edu) Lab in the University of Oregon Knight Library.
+
+---
+# About *Ed*
+
+**How made Ed?** [Alex Gil, Digital Scholarship Librarian at Columbia Universiity](https://blogs.cul.columbia.edu/spotlights/2018/08/30/meet-alex-gil-digital-scholarship-librarian/)
 
 One of our most pressing and ever revolving needs as scholars is to pass on our textual artifacts from one generation to another. The art of textual editing, among other practices, has helped many cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its highest form by a dwindling number of scholars. In a digital environment the problem is compounded by the difficulties of the medium. While vast repositories, and "e-publications" appear on the online scene yearly, very few manifest a textual scholar's disciplined attention to detail. In contrast, most textual scholars who have made the leap to a rigorous digital practice have focused on markup, relying on technical teams to deploy and maintain their work. This makes your average scholarly digital edition a very costly, and therefore limited affair.
 
